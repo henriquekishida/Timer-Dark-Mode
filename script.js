@@ -297,13 +297,6 @@ function fireplaceOn(){
   }
 }
 
-function vibrate(){
-  if(hours == 0 && minutes == 0 && seconds == 0){
-    navigator.vibrate([1000, 800, 1000, 800, 1000,1000, 800, 1000, 800, 1000,
-      1000, 800, 1000, 800, 1000,1000, 800, 1000, 800, 1000])
-}
-}
-
 function forestVolume(){
   forestBg.volume = forestVol.value / 100
 }

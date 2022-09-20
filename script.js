@@ -334,3 +334,9 @@ function lightModeOff(){
   html.classList.add('light-mode')
   html.classList.remove('dark-mode')
 }
+
+function vibrate(){
+  if(navigator){
+    navigator.vibrate([1000, 800, 1000, 800, 1000,1000, 800, 1000, 800, 1000,
+                       1000, 800, 1000, 800, 1000,1000, 800, 1000, 800, 1000])
+  }

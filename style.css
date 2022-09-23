@@ -52,7 +52,9 @@ body {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 100%;
+
+  
 }
 
 input[type="number"]::-webkit-inner-spin-button,
@@ -128,7 +130,7 @@ main {
   display: flex;
   flex-direction: column;
   margin: auto;
-  width: clamp(32rem, 26rem + 30vw, 40rem);
+  width: clamp(32rem, 26rem + 30vw, 36grem);
   gap: clamp(5rem, 5rem + 8vw, 19.2rem);
   padding: 5rem 2rem;
 }

@@ -10,7 +10,7 @@ This is the same as <a href="https://henriquekishida.github.io/Timer/"> Timer </
 
 <div align="center">
   
-<a href="https://henriquekishida.github.io/Timer-with-Dark-Mode/"> <h2> DEPLOY </h2></a>
+<a href="https://henriquekishida.github.io/Timer-with-Dark-Mode/"> <h2><a href="https://henriquekishida.github.io/Timer-with-Dark-Mode/">DEPLOY </h2></a>
   
 To check how it works and give it a try, click the link above.
 </div>
